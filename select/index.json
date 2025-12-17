@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "青い苺",
+  "base_artist": "わか・ふうり from STAR☆ANIS",
+  "createdAt": "2025-12-17T18:40:54.137450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青い苺",
+      "artist": "わか・ふうり from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/01_青い苺_わか・ふうり_from_STAR☆ANIS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青い苺",
+      "artist": "わか・ふうり from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_青い苺_わか・ふうり_from_STAR☆ANIS.txt"
+    }
+  ]
+}
